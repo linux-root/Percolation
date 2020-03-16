@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53bff550-a4cd-4d50-8e49-b03f8d34b9d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z9MHnGuSQ42IwmEMJvPN3uphdl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Percolation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kurro.Main" />
+      <module name="Percolation" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="Percolation" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Percolation" />
+      <option name="PROGRAM_PARAMETERS" value="20 300" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.PercolationStats" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Percolation" />
+        <item itemvalue="Application.PercolationStats" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53bff550-a4cd-4d50-8e49-b03f8d34b9d1" name="Default Changelist" comment="" />
+      <created>1584246770426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584246770426</updated>
+      <workItem from="1584246773727" duration="16395000" />
+      <workItem from="1584291312045" duration="1663000" />
+      <workItem from="1584323684793" duration="8328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584345458583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584345458583" />
+    <state x="335" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584325139914">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="335" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1584325139914" />
+    <state x="950" y="321" key="#xdebugger.evaluate" timestamp="1584345059437">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="950" y="321" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584345059437" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1584351717274">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584351717274" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584290110088" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1584351717272">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584351717272" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1584290110087" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1584351717271">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584351717271" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1584290110086" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1584351717273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584351717273" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1584290110088" />
+    <state width="1398" height="283" key="GridCell.Tab.1.bottom" timestamp="1584345144568">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584345144568" />
+    <state width="1398" height="283" key="GridCell.Tab.1.center" timestamp="1584345144567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584345144567" />
+    <state width="1398" height="283" key="GridCell.Tab.1.left" timestamp="1584345144566">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584345144566" />
+    <state width="1398" height="283" key="GridCell.Tab.1.right" timestamp="1584345144567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584345144567" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1584351791339">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584351791339" />
+    <state x="389" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584254152991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="389" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1584254152991" />
+    <state x="301" y="37" width="837" height="825" key="find.popup" timestamp="1584290503570">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="37" width="837" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1584290503570" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584327296748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584327296748" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PercolationStats.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Percolation.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Percolation.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Percolation.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.id(n, i+1);" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
